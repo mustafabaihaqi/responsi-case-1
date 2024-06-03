@@ -1,8 +1,8 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
+Nama : Baihaqi Mustafa Surya Atmaja  
+NIU : 456839
+Sesi : Senin 07.00  
 Secret String : [SECRET_STRING]
 
 ## Checklist Responsi
